@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot (verbiage = "Squawk!")
   puts "#{verbiage}"
-  "Squawk!"
+  verbiage
 end
